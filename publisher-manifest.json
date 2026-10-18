@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "378d594aedb58869914354fe",
+  "owner": "uedepyts",
+  "repo": "page-211507cd8b1eb059e0c82047",
+  "title": "MorckVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "211507cd8b1eb059e0c82047",
+      "a": "MorckVPN",
+      "b": "",
+      "entity": "MorckVPN",
+      "brand": "MorckVPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "07d5ea7a2b4612b12f5c7e6ea112ed873e94c4e23f58da85734e21aceddedf26",
+      "content": {
+        "keyword1": "MorckVPN",
+        "keyword2": "",
+        "primary_entity": "MorckVPN",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "MorckVPN 提供清晰的传输通道配置方案。结构规整，定价公开，参数明确。适配多种设备平台，满足个人与协同连接需求。",
+          "AI_DESCRIPTION": "MorckVPN 提供清晰的传输通道配置方案。结构规整，定价公开，参数明确。适配多种设备平台，满足个人与协同连接需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;background-color: #f1f5f9;color: #1e293b;line-height: 1.65;padding: 0 1rem}\n.page-container {max-width: 820px;margin: 0 auto;padding: 3rem 0 5rem}\nheader.hero-narrative {background: #ffffff;border-radius: 1.5rem;padding: 3rem 2.5rem;box-shadow: 0 12px 32px -4px rgba(15, 23, 42, 0.06);margin-bottom: 2.5rem}\n.kicker {font-size: 0.85rem;font-weight: 700;letter-spacing: 0.1em;text-transform: uppercase;color: #0891b2;margin-bottom: 1rem;display: inline-block}\nh1 {font-size: 2.25rem;line-height: 1.25;font-weight: 800;color: #0f172a;letter-spacing: -0.02em;margin-bottom: 1.5rem}\n.lead {font-size: 1.15rem;color: #334155;margin-bottom: 1.25rem;font-weight: 500}\n.narrative-body p {color: #475569;margin-bottom: 1rem;font-size: 1rem}\n.hero-nav {margin-top: 2rem;padding-top: 1.75rem;border-top: 1px solid #e2e8f0;display: flex;flex-wrap: wrap;gap: 0.75rem}\n.hero-nav a {display: inline-block;background-color: #f8fafc;color: #0e7490;border: 1px solid #cbd5e1;padding: 0.45rem 1rem;border-radius: 9999px;text-decoration: none;font-size: 0.875rem;font-weight: 600}\n.hero-nav a:hover {background-color: #0891b2;color: #ffffff;border-color: #0891b2}\nsection {margin-bottom: 2.5rem}\n.section-title {font-size: 1.5rem;font-weight: 700;color: #0f172a;margin-bottom: 1.25rem;padding-left: 0.25rem}\n.card {background: #ffffff;border-radius: 1.25rem;padding: 2rem;box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.05);margin-bottom: 1.25rem}\n.plan-row {display: flex;flex-direction: column;gap: 1.25rem;border-bottom: 1px solid #f1f5f9;padding-bottom: 1.5rem;margin-bottom: 1.5rem}\n.plan-row:last-child {border-bottom: none;padding-bottom: 0;margin-bottom: 0}\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;flex-wrap: wrap;gap: 0.5rem}\n.plan-name-wrap {display: flex;align-items: center;gap: 0.75rem}\n.plan-name {font-size: 1.25rem;font-weight: 700;color: #0f172a}\n.plan-tag {background-color: #0891b2;color: #ffffff;font-size: 0.75rem;font-weight: 700;padding: 0.2rem 0.6rem;border-radius: 0.5rem}\n.plan-pricing {text-align: right}\n.price-main {font-size: 1.5rem;font-weight: 800;color: #0891b2}\n.price-sub {font-size: 0.825rem;color: #64748b}\n.plan-specs {display: grid;grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));gap: 0.5rem}\n.spec-item {font-size: 0.9rem;color: #475569;background: #f8fafc;padding: 0.5rem 0.75rem;border-radius: 0.5rem}\n.step-list {display: grid;gap: 1rem}\n.step-item {background: #f8fafc;border-radius: 0.85rem;padding: 1.25rem}\n.step-num {font-size: 0.8rem;font-weight: 800;color: #0891b2;text-transform: uppercase;margin-bottom: 0.25rem}\n.step-title {font-size: 1.05rem;font-weight: 700;color: #0f172a;margin-bottom: 0.35rem}\n.step-desc {font-size: 0.9rem;color: #475569}\n.clients-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 1rem}\n.client-box {background: #f8fafc;padding: 1.25rem;border-radius: 0.85rem}\n.client-box h3 {font-size: 1.05rem;color: #0f172a;margin-bottom: 0.5rem}\n.client-box p {font-size: 0.875rem;color: #475569}\n.client-box a.client-link {display: inline-block;margin-top: 0.75rem;font-size: 0.825rem;font-weight: 600;color: #0891b2;text-decoration: none}\nol.faq-list {list-style: none;counter-reset: faq-counter;display: flex;flex-direction: column;gap: 1.25rem}\nli.faq-item {counter-increment: faq-counter;position: relative;padding-left: 3rem}\nli.faq-item::before {content: counter(faq-counter, decimal-leading-zero);position: absolute;left: 0;top: 0;font-size: 1.1rem;font-weight: 800;color: #0891b2}\n.faq-question {font-size: 1.05rem;font-weight: 700;color: #0f172a;margin-bottom: 0.35rem}\n.faq-answer {font-size: 0.925rem;color: #475569}\nfooter {text-align: center;font-size: 0.85rem;color: #64748b;margin-top: 3rem}\n@media (max-width: 640px) {\n  header.hero-narrative {padding: 2rem 1.5rem}\n  h1 {font-size: 1.75rem}\n  .plan-header {flex-direction: column;align-items: flex-start}\n  .plan-pricing {text-align: left}\n}\n</style><main class=\"page-container\">\n\n  <header class=\"hero-narrative\">\n    <span class=\"kicker\">网络通道备忘录</span>\n    <h1>MorckVPN 架构规范与订购指南</h1>\n    <div class=\"narrative-body\">\n      <p class=\"lead\">通道的意义在于交付可预期的连通性。不需要复杂的修饰，只讲求明确的技术指标与规则。</p>\n      <p>互联网协议本身并不具备情感。数据包的跨区域中继，核心在于稳定的链路分配、合理的负载约束，以及清晰透明的账户计量。MorckVPN 面向需要独立配置通道的个人与组织，提供具备边界保证的订阅方案。</p>\n      <p>所有节点按需编排，客户端逻辑保持极简。阅读以下章节，选择相匹配的吞吐能力与终端指标。</p>\n    </div>\n    <nav class=\"hero-nav\" aria-label=\"页面章节导航\">\n      <a href=\"#plans\">订购方案</a>\n      <a href=\"#setup\">配置指引</a>\n      <a href=\"#platforms\">终端说明</a>\n      <a href=\"#faq\">常见答疑</a>\n    </nav>\n  </header>\n\n  <section id=\"plans\">\n    <h2 class=\"section-title\">订阅规格与配额</h2>\n    <div class=\"card\">\n      <div class=\"plan-row\">\n        <div class=\"plan-header\">\n          <div class=\"plan-name-wrap\">\n            <span class=\"plan-name\">基础版</span>\n          </div>\n          <div class=\"plan-pricing\">\n            <span class=\"price-main\">¥15/月</span>\n            <span class=\"price-sub\">（按年付仅需 ¥150/年）</span>\n          </div>\n        </div>\n        <div class=\"plan-specs\">\n          <div class=\"spec-item\">每月 100GB 极速流量</div>\n          <div class=\"spec-item\">支持 3 台设备同时在线</div>\n          <div class=\"spec-item\">解锁基础流媒体</div>\n          <div class=\"spec-item\">普通线路节点池</div>\n        </div>\n      </div>\n\n      <div class=\"plan-row\">\n        <div class=\"plan-header\">\n          <div class=\"plan-name-wrap\">\n            <span class=\"plan-name\">旗舰版</span>\n            <span class=\"plan-tag\">推荐</span>\n          </div>\n          <div class=\"plan-pricing\">\n            <span class=\"price-main\">¥35/月</span>\n            <span class=\"price-sub\">（按年付仅需 ¥350/年）</span>\n          </div>\n        </div>\n        <div class=\"plan-specs\">\n          <div class=\"spec-item\">每月 300GB 极速流量</div>\n          <div class=\"spec-item\">支持 5 台设备同时在线</div>\n          <div class=\"spec-item\">全节点原生流媒体解锁</div>\n          <div class=\"spec-item\">IPLC 专线游戏加速优化</div>\n          <div class=\"spec-item\">7x24 优先工单支持</div>\n        </div>\n      </div>\n\n      <div class=\"plan-row\">\n        <div class=\"plan-header\">\n          <div class=\"plan-name-wrap\">\n            <span class=\"plan-name\">团队版</span>\n          </div>\n          <div class=\"plan-pricing\">\n            <span class=\"price-main\">¥85/月</span>\n            <span class=\"price-sub\">（按年付仅需 ¥850/年）</span>\n          </div>\n        </div>\n        <div class=\"plan-specs\">\n          <div class=\"spec-item\">每月 1000GB 极速流量</div>\n          <div class=\"spec-item\">支持 20 台设备同时在线</div>\n          <div class=\"spec-item\">VIP 专属高带宽节点</div>\n          <div class=\"spec-item\">支持企业定制路由</div>\n          <div class=\"spec-item\">专属客户经理服务</div>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"setup\">\n    <h2 class=\"section-title\">接入执行步骤</h2>\n    <div class=\"card\">\n      <div class=\"step-list\">\n        <div class=\"step-item\">\n          <div class=\"step-num\">Step 01</div>\n          <div class=\"step-title\">确立订阅方案</div>\n          <div class=\"step-desc\">核对设备数与月度流量。完成结算后生成专属配置密匙。</div>\n        </div>\n        <div class=\"step-item\">\n          <div class=\"step-num\">Step 02</div>\n          <div class=\"step-title\">导入订阅数据</div>\n          <div class=\"step-desc\">将订阅链接填入支持的标准客户端中，拉取节点集群清单。</div>\n        </div>\n        <div class=\"step-item\">\n          <div class=\"step-num\">Step 03</div>\n          <div class=\"step-title\">建立加密握手</div>\n          <div class=\"step-desc\">选择目标路由区域。开启分流策略，完成连通性校验。</div>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"platforms\">\n    <h2 class=\"section-title\">终端与接入软件</h2>\n    <div class=\"card\">\n      <div class=\"clients-grid\">\n        <div class=\"client-box\">\n          <h3>桌面工作站</h3>\n          <p>适用于 Windows 与 macOS 操作系统。推荐使用主流通用代理工具导入链接。</p>\n          <a class=\"client-link\" href=\"#\">查看配置文档 →</a>\n        </div>\n        <div class=\"client-box\">\n          <h3>移动终端</h3>\n          <p>兼容 iOS 与 Android 系统生态。配合对应平台的通用客户端直接同步节点。</p>\n          <a class=\"client-link\" href=\"#\">获取指引 →</a>\n        </div>\n        <div class=\"client-box\">\n          <h3>网关与路由</h3>\n          <p>支持基于 OpenWrt 的路由器配置。可在家庭或团队内网实现透明转发。</p>\n          <a class=\"client-link\" href=\"#\">路由指引 →</a>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2 class=\"section-title\">常见问题解答</h2>\n    <div class=\"card\">\n      <ol class=\"faq-list\">\n        <li class=\"faq-item\">\n          <div class=\"faq-question\">流量重置周期如何计算？</div>\n          <div class=\"faq-answer\">系统自开通时刻起按自然月周期运行。次月同日重置配额，当期未使用额度不滚存。</div>\n        </li>\n        <li class=\"faq-item\">\n          <div class=\"faq-question\">超过在线设备限制会怎样？</div>\n          <div class=\"faq-answer\">后发起的设备连接将被阻断。若要扩展连接数，可随时升级至更高档位方案。</div>\n        </li>\n        <li class=\"faq-item\">\n          <div class=\"faq-question\">方案是否包含官方定制客户端？</div>\n          <div class=\"faq-answer\">目前优先适配行业通用协议客户端。根据各系统指南配置即可使用，无需绑定单一程序。</div>\n        </li>\n      </ol>\n    </div>\n  </section>\n\n  <footer>\n    <p>© MorckVPN 平台规范与订购指南。所有规格以面板实际显示为准。</p>\n  </footer>\n\n</main>",
+          "hash": "e31202f3aea4f1705d60818526580fd6b1672e16758eab4fe15f4c0d48d7d08e",
+          "seo": {
+            "title": "MorckVPN - 网络通道配置与方案规格指南",
+            "keywords": "MorckVPN, 个人网络协议, 网络节点, 流量方案, 终端配置",
+            "description": "MorckVPN 提供清晰的传输通道配置方案。结构规整，定价公开，参数明确。适配多种设备平台，满足个人与协同连接需求。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "5636",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "7 石板灰配青色",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ncwws.cn",
+    "host": "p-240843d1f9.ncwws.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0453fecc4a7a7c4c7f5047ca92aec4d0f7e19a9eed10fb79cd7f50d32d642de6",
+    "sitemap.xml": "9bb2e6a09ea9bccd9754e37fcb6ee0034ad4fd417cfc877768c5be0ca9159e11",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "439cb30cf02da4d55d6a321a11c3cf60c78740b69a4ade91eb10ba924dc47483",
+    "robots.txt": "00cf4c59c41c2479dcb96bf59fba73275bbcac3d51c37efae37a01983487653f",
+    "a45dc9129e8f35f1c9ef1a47594c3ef1.txt": "0a6ee03c545fc4233769fe6d95707714739417a3ff4d1f49937584cc10e9b72a"
+  },
+  "revision": "daa6195556325d37c0238405990c58a6019cfce386223fbd93c51a91b749aceb"
+}
